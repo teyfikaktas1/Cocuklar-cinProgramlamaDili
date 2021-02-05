@@ -1,0 +1,13 @@
+C:\Users\teyfi\source\repos\CocuklarİcinProgramlamaDili\CocuklarİcinProgramlamaDili\bin\Debug\netcoreapp3.1\CocuklarİcinProgramlamaDili.exe
+C:\Users\teyfi\source\repos\CocuklarİcinProgramlamaDili\CocuklarİcinProgramlamaDili\bin\Debug\netcoreapp3.1\CocuklarİcinProgramlamaDili.deps.json
+C:\Users\teyfi\source\repos\CocuklarİcinProgramlamaDili\CocuklarİcinProgramlamaDili\bin\Debug\netcoreapp3.1\CocuklarİcinProgramlamaDili.runtimeconfig.json
+C:\Users\teyfi\source\repos\CocuklarİcinProgramlamaDili\CocuklarİcinProgramlamaDili\bin\Debug\netcoreapp3.1\CocuklarİcinProgramlamaDili.runtimeconfig.dev.json
+C:\Users\teyfi\source\repos\CocuklarİcinProgramlamaDili\CocuklarİcinProgramlamaDili\bin\Debug\netcoreapp3.1\CocuklarİcinProgramlamaDili.dll
+C:\Users\teyfi\source\repos\CocuklarİcinProgramlamaDili\CocuklarİcinProgramlamaDili\bin\Debug\netcoreapp3.1\CocuklarİcinProgramlamaDili.pdb
+C:\Users\teyfi\source\repos\CocuklarİcinProgramlamaDili\CocuklarİcinProgramlamaDili\obj\Debug\netcoreapp3.1\CocuklarİcinProgramlamaDili.csprojAssemblyReference.cache
+C:\Users\teyfi\source\repos\CocuklarİcinProgramlamaDili\CocuklarİcinProgramlamaDili\obj\Debug\netcoreapp3.1\CocuklarİcinProgramlamaDili.AssemblyInfoInputs.cache
+C:\Users\teyfi\source\repos\CocuklarİcinProgramlamaDili\CocuklarİcinProgramlamaDili\obj\Debug\netcoreapp3.1\CocuklarİcinProgramlamaDili.AssemblyInfo.cs
+C:\Users\teyfi\source\repos\CocuklarİcinProgramlamaDili\CocuklarİcinProgramlamaDili\obj\Debug\netcoreapp3.1\CocuklarİcinProgramlamaDili.csproj.CoreCompileInputs.cache
+C:\Users\teyfi\source\repos\CocuklarİcinProgramlamaDili\CocuklarİcinProgramlamaDili\obj\Debug\netcoreapp3.1\CocuklarİcinProgramlamaDili.dll
+C:\Users\teyfi\source\repos\CocuklarİcinProgramlamaDili\CocuklarİcinProgramlamaDili\obj\Debug\netcoreapp3.1\CocuklarİcinProgramlamaDili.pdb
+C:\Users\teyfi\source\repos\CocuklarİcinProgramlamaDili\CocuklarİcinProgramlamaDili\obj\Debug\netcoreapp3.1\CocuklarİcinProgramlamaDili.genruntimeconfig.cache
